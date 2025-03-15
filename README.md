@@ -50,3 +50,7 @@ Download dependencies:
 go mod tidy
 
 ```
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/0c6a0a22-4961-484c-865f-4d2321e1cabb" />
+<img width="798" alt="image" src="https://github.com/user-attachments/assets/2f39c837-0c55-4809-bfd5-fd55a723588f" />
+
+
